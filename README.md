@@ -1,5 +1,5 @@
 # Predictive-Models-for-NFL-Betting-Strategies
-DSC 478( Programming Machine Learning Applications ) Final Project 
+DSC 478(Programming Machine Learning Applications) Final Project 
 
 Online sports betting is becoming legalized and more ubiquitous in many states. Unlike many other forms of betting (ex. poker, blackjack, roulette, craps, etc.), sports betting isn’t predicated on pre-defined and well known probabilities/odds. The inspiration for this project is to assess if through the use of machine learning there are any interesting findings that could lead to successful betting strategies for NFL game betting. We will attempt to accomplish this by leveraging the "NFL Scores and Betting Data" data set on Kaggle found here, https://www.kaggle.com/tobycrabtree/nfl-scores-and-betting-data. To give this a real world goal and metric to compare against we'll also perform a comparison on expected returns our models could have versus major stock indices like the S&P 500, Dow Jones, and NASDAQ to give a sense of opportunity cost.
 
